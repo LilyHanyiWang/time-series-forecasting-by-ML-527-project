@@ -13,3 +13,7 @@ Collaborators:
 - Hanyi Wang: method research, paper writing (models part)
 - Emily (Wendan Yan): data cleaning, method research, notebook for running the CNN models
 
+
+Dataset:
+“Daily Climate time series data.” https://www.kaggle.com/sumanthvrao/daily-climate-time-series-data (accessed Jun. 11, 2022).
+
