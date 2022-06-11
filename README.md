@@ -1,8 +1,6 @@
-# time-series-forecasting-by-ML
+# Multivariate Time Series Forecasting Using LSTM and CNN: Experiments on Climate Daily Data
 
-Project for BIOST 527 Nonparametric Regression and Classification
-
-Spring 2022
+Project for STAT 527 Nonparametric Regression and Classification, Spring 2022
 
 Instructor: Noah Simon
 
@@ -12,7 +10,6 @@ Collaborators:
 - Wenqian Shao: selection of the dataset, method research, paper writing (Data and models part)
 - Hanyi Wang: method research, paper writing (models part)
 - Emily (Wendan Yan): data cleaning, method research, notebook for running the CNN models
-
 
 Dataset:
 
